@@ -1,0 +1,8 @@
+name=NXT_EV3 Driver
+version=1.0.0
+author=Jørgen Larsen <jclarsen@teknologiskolen.dk>
+maintainer=Jørgen Larsen <jclarsen@teknologiskolen.dk>
+sentence=Bibliotek til styring af Lego NXT og EV3 motorer
+paragraph=Med dette bibliotek kan du styre position og hastighed med de kendte Lego Mindstorm motorer (NXT og EV3) fra en Arduino. 
+url=https://github.com/Teknologiskolen/HCSR04
+architectures=*
