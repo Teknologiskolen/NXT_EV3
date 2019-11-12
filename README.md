@@ -1,2 +1,2 @@
 # NXT_EV3
-Library for driving the NXT and EV3 mindstorm motors.
+Bibliotek til at styre Lego Mindstorm motorer (NXT og EV3) fra en Arduino. Afhængig af valg af motor shield kan 2 eller 4 motorer styres.
